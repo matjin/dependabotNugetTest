@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dependabotNugetTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0980f1c09d1641fc3a82110f9db21feddfaaf623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b94a6f3b51eac5bbadbab90d7b2b2e24d5e581f")]
 [assembly: System.Reflection.AssemblyProductAttribute("dependabotNugetTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dependabotNugetTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
