@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\matjin\\source\\repos\\dependabotNugetTest\\dependabotNugetTest\\dependabotNugetTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\matjin\\source\\repos\\dependabotNugetTest\\dependabotNugetTest\\dependabotNugetTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\matjin\\source\\repos\\dependabotNugetTest\\dependabotNugetTest\\dependabotNugetTest.csproj",
+        "projectName": "dependabotNugetTest",
+        "projectPath": "C:\\Users\\matjin\\source\\repos\\dependabotNugetTest\\dependabotNugetTest\\dependabotNugetTest.csproj",
+        "packagesPath": "C:\\Users\\matjin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matjin\\source\\repos\\dependabotNugetTest\\dependabotNugetTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\matjin\\source\\repos\\dependabotNugetTest\\dependabotNugetTest\\NuGet.Config",
+          "C:\\Users\\matjin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/mseng/AzureDevOps/_packaging/DependabotNugetTest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
